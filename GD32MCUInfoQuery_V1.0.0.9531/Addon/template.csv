@@ -1,0 +1,2 @@
+Series,Part No.,Max Speed (MHz),Memory (Bytes),,I/O,Timer,,,,,,,Connectivity,,,,,,,,,,,,,,,,,,,EXMC,EXMC/SDRAM,Analog Interface,,Package,Core
+,,,Flash,SRAM,,GPTM (32bit),GPTM (16bit),Adv TM (16bit),Bsc TM (16bit),SysTick (24bit),WDG,RTC,USART+UART,I2C,SPI,CAN 2.0B,USB 2.0,I2S,SDIO,Ether-net,TMU,SHR TM,COMP,OP-AMP,CEC,LCD-TFT,LCD,Camera,ETHMAC,Crypto/Hash,IPA,,,12bit ADC Units (CHs),12bit DAC Units,,
